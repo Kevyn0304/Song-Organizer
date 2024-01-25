@@ -6,7 +6,7 @@ For example:
 | Playlist title | Genre |
 | -------------- | ----- |
 | metal | metal |
-| punk/rock | punk, garage rock|
+| $%@! | punk, garage rock|
 | アニメ | jpop|
 | throwback | 2000's - 2010's |
 
