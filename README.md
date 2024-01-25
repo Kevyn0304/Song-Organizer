@@ -21,3 +21,8 @@ for (song in Liked Songs):
 
     and so on
 ```
+
+
+Next projects:
+- Webapp thats always running to automatically sort any songs added to my Liked Songs playlist
+- Actual website desgined for people to insert a given playlist of theirs, and ask them questions to add or remove certain genres and suggest such songs
