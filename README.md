@@ -1,5 +1,5 @@
 # Song-Organizer
-A Spotify Web App that will organize all of the songs in my Liked Songs playlist to playlists specified for certain genres
+A Spotify Web App that will ~~organize all of the songs in my Liked Songs playlist to playlists specified for certain genres~~ create playlists for certain genres and put any songs in my Liked Songs playlist in the corresponding playlist
 
 For example:
 
