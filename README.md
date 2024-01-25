@@ -11,7 +11,7 @@ For example:
 
 etc
 
-
+```
 for (song in Liked Songs):
   get(song.genre)
   if (song.genre == metal)
@@ -20,3 +20,4 @@ for (song in Liked Songs):
     アニメ.add(song)
 
     and so on
+```
